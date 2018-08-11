@@ -22,27 +22,21 @@ Going into and throughout my IT course I expect to learn the foundation and fund
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Ideal Job
 
-1. Numbered
-2. List
+The job advertisememnt: http://grads.woolworths.com.au/page/graduate-roles/
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+This position interests me as I have worked at Woolworths for nearly 3 years in the deli department and love the social environment of the work. As such, I would love to continue to work at Woolworths in their graduate IT department and learn new skills that would contribute to a flourishing career.  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+As this is a graduate position limited knowledge is presumed as a tertiary education provides the basics whilst you learn most of the skills on the job. The skills I currently possess are from jobs that I have held from the age of 14 to now (18 years old). These include being able to file and scan documents, being able to assemble and rotate stock whilst working in a high pressured environment such as McDonalds and working cooperatively in a team environment and abiding by occupational health and safety and food safety to ensure a safe working environment for customers and staff.
+
+
+I will build upon my skills of customer service and working in a team and apply those to an information technology environment to learn new skills. 
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HarrySchon123/HarrysIntroProfile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
