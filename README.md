@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/HarrySchon123/HarrysIntroProfile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Personal Information. 
+Harrison Schonfelder
+S3722929
+S3722929@student.rmit.edu.au
+Australian of German decent. Grandparents migrated due to tension as WW2 broke out. 
+I love going to the AFL, I am a MCC member and have gone to the grand final 5 times.
 
 ### Markdown
 
