@@ -51,4 +51,4 @@ Learning Style Test- - https://www.how-to-study.com/learning-style-assessment/qu
 
 Results of Learning Style Test- Visual
 
-![](Github/LTS.png)
+![](Github/%20LTS.png)
