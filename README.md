@@ -37,9 +37,11 @@ I will build upon my skills of customer service and working in a team and apply 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HarrySchon123/HarrysIntroProfile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Personal Profile
+### Personal Profile- Test Results
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Myers Briggs Personality Test- https://www.16personalities.com/free-personality-test
 
-<img src= "Github/MyerBriggs.png" width= "150"
+Results of Myers Briggs Test- Protagonist. 
+
+
 ![](Github/MyerBriggs.png)
