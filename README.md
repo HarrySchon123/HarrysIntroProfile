@@ -52,3 +52,10 @@ Learning Style Test- - https://www.how-to-study.com/learning-style-assessment/qu
 Results of Learning Style Test- Visual
 
 ![](Github/%20LTS.png)
+
+
+Attention Span Test- http://psychologytoday.tests.psychtests.com/bin/transfer?req=MTF8MzM2MXwyMTQ4MDA0M3wwfDE=&refempt=1533706768.21480043.11
+
+Result of Attention span test- 64/100
+
+![](Github/%20SPAN.png)
