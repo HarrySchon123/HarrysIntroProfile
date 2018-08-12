@@ -65,7 +65,7 @@ Result of Attention span test- 64/100
 I feel that because the result of the test was ‘protagonist’ is a good indicator that the potential of a leadership role in IT further down in my career when I have gathered more experience.  As a result of the online learning test I would convey my messages and ideas in this type of role visually to demonstrate a deeper understanding of the work. 
 
 
-*How do you think these results may influence your behaviour in a team?* 
+*How do you think these results may influence your behaviour in a team?
 
 The results from the Myer Briggs test say that I am extraverted. In a group environment I would be able to freely contribute ideas and speak openly about my concerns. Moreover, I may want to convey my ideas through visual means as well as verbally, as indicated in the learning style test. Furthermore, I may have difficulty working for a long sustained period of time and may need small breaks after long group sessions with my team. 
 
