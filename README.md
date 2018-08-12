@@ -45,3 +45,10 @@ Results of Myers Briggs Test- Protagonist.
 
 
 ![](Github/MyerBriggs.png)
+
+
+Learning Style Test- - https://www.how-to-study.com/learning-style-assessment/quiz-item.asp
+
+Results of Learning Style Test- Visual
+
+![](Github/LTS.png)
