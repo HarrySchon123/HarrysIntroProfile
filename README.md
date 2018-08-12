@@ -59,3 +59,18 @@ Attention Span Test- http://psychologytoday.tests.psychtests.com/bin/transfer?re
 Result of Attention span test- 64/100
 
 ![](Github/SPAN.png)
+
+What do these tests mean for me?
+
+I feel that because the result of the test was ‘protagonist’ is a good indicator that the potential of a leadership role in IT further down in my career when I have gathered more experience.  As a result of the online learning test I would convey my messages and ideas in this type of role visually to demonstrate a deeper understanding of the work. 
+
+
+How do you think these results may influence your behaviour in a team?
+
+The results from the Myer Briggs test say that I am extraverted. In a group environment I would be able to freely contribute ideas and speak openly about my concerns. Moreover, I may want to convey my ideas through visual means as well as verbally, as indicated in the learning style test. Furthermore, I may have difficulty working for a long sustained period of time and may need small breaks after long group sessions with my team. 
+
+
+How should you take this into account when forming a team?
+
+From the information gathered from the three tests taken I should look for people with similar social skills and learning patterns. Being in a group with people that are able to communicate and not feel anxious would increase workflow as not one member or members would come across as domineering to the quitter members. Furthermore, I would have to be in a group in which members are willing to be able to break up group meetings to create a better workflow with members who don’t have the attention span for long periods of time. 
+
