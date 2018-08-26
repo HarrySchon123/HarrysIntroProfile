@@ -74,3 +74,50 @@ The results from the Myer Briggs test say that I am extraverted. In a group envi
 
 From the information gathered from the three tests taken I should look for people with similar social skills and learning patterns. Being in a group with people that are able to communicate and not feel anxious would increase workflow as not one member or members would come across as domineering to the quitter members. Furthermore, I would have to be in a group in which members are willing to be able to break up group meetings to create a better workflow with members who don’t have the attention span for long periods of time. 
 
+
+Project ideas 
+
+
+Overview
+
+
+My project will be a strategy game run on the Unity which entails a turn based strategy game involving politics. This will be mainly done through a lengthy, strategic campaign for a position in Parliament, slowly working your way up to President. Factors such as manipulation, bribery and backstabbing can all result in an advantage for your character, which can cause various reactions from opponents in the game.  This would create a competitive environment in which would work perfectly for a strategy game. Furthermore, if you are able to seize power your primary goal is to expand your country and influence other countries for your gain. 
+
+
+
+Motivation
+
+
+My main motivation for creating a strategy game is that I have invested many hours into strategy games as it is my favourite game genre. I have invested close to 500 hours into Civilization V and 600 into Total War Shogun 2. As such I think my game is a nice balance between these two games, taking the turn based and political elements from Civilization V and the warfare elements of Total War. Another source of inspiration comes from a love of history of the 20th century. Being able to play as icon politicians such as John F. Kennedy, Hitler and Stalin would provide an ability to abide by history or change it through the multiple outcomes of specific moves. 
+
+
+
+Description
+
+
+Game- As previously mentioned the game will consist of both elements of the civilization and total war strategy game franchises. As this is the game genre I play the most, and know the most about I have a fundamental understanding of what makes a great strategy game. Ideally, it will be challenging enough to retain your attention and keep you entertained yet not too complex that it makes players frustrated and never want to play the game again. An important aspect of most strategy games is it being able to be heavily optimised so it can be played on low spec computers that may be years old. This is a huge feature of strategy games as many players do not have gaming computers. A typical game may go as follows; You pick or create an up and coming politician. You attempt to gain votes through legitimate and illegitimate means, such as good deeds and bribery respectively. This game is designed for anyone who has ever felt as if they could have done a better job than their current politicians in power. This can range from anywhere from your local council to the Prime Minister. At its core the game simulates the motives and desires of a politician wether that be personal or for the betterment of the country. Because Australia is in such political turmoil in that it seems unable to find a fitting leader over the past decade this would create further interest in a political game. 
+
+
+One of the many signs a strategy game has been successful if it has a positive modding community. A prominent example of a modding community improving and creating additional content for Total War: Empire. Total War Empire was completely broken upon launch but a little over a year later DarthMod for empire was released and completely revolutionised and fixed the problems presented at launch. 7 years later DarthMod is continually used by the competitive community of Empire. Mods also allow a game to be fresh and a allows a game to have more content. This would alleviate pressure to rush a sequel if the game were to be successful as the game making team would be one that is extremely small. 
+
+
+
+Tools and Technologies 
+
+
+The software that I would elect to use to create the game would be Unity was released in late 2011 with an open beta and has been maintained ever since through constant updates, as such, it is a very stable game making software and very easy to learn. The hardware that needs to be utilised to make a game would require a strong CPU, for example, i7 4770k and a dedicated graphics card, such as an 8gb VRAM GTX 1080. Usually when creating games, a minimum of 16gb of ram would help speed the process of creating a game.
+
+
+
+Skills Required
+
+
+Creating a 3D strategy game by yourself would take years upon years. It is very advantageous to work with a small to medium sized team that are willing to all work together towards a goal. A game making team would consist of designers and artists, programmers and voice actors. The hardware needed would typically cost $1500-$2000 per computer. As such, it may be unfeasible for a studio with no backing to financially support all the technological software and hardware needed as there is no guarantee the game will be successful or that it will even be finished, as well as sacrificing your social and work life for the making of the game. 
+
+Outcome
+
+
+If the game were to be successful I would love for it to have a dedicated hardcode community that are invested in discovering new strategies and ways to win. I would love for it to have a thriving modding and additional content community, as this would always keep the game refreshing and allow other people to contribute and continue to allow the game to flourish. The impact this development will have is hopefully that it will influence other possible developers that are thinking about creating strategy games to create their own, potentially drawing inspiration for crafting mods for the game.
+
+
+
