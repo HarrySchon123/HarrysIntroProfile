@@ -75,7 +75,7 @@ The results from the Myer Briggs test say that I am extraverted. In a group envi
 From the information gathered from the three tests taken I should look for people with similar social skills and learning patterns. Being in a group with people that are able to communicate and not feel anxious would increase workflow as not one member or members would come across as domineering to the quitter members. Furthermore, I would have to be in a group in which members are willing to be able to break up group meetings to create a better workflow with members who don’t have the attention span for long periods of time. 
 
 
-Project ideas 
+### Project ideas 
 
 
 Overview
